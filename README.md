@@ -1,4 +1,4 @@
-                                                                                  🛒 Sales Dashboard (Excel)
+🛒 Sales Dashboard (Excel)
 
 
 This project presents a Sales Performance Dashboard built entirely in Microsoft Excel, utilizing pivot tables, charts, and slicers to visualize and analyze sales data.
@@ -47,6 +47,6 @@ Excel dashboarding and reporting portfolio demonstration
 
 ## 📸 Dashboard Preview
 
-![Sales Dashboard](Dashboard_Sales Analysis.png)
+![Sales Dashboard](Dashboard_Sales%20Analysis.png)
 
-![Sales Dashboard](Dashboard_Sales Analysis2.png)
+![Sales Dashboard](Dashboard_Sales%20Analysis2.png)
