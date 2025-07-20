@@ -1,11 +1,14 @@
-🛒 Sales Dashboard (Excel)
+<img width="498" height="140" alt="image" src="https://github.com/user-attachments/assets/fb0d4bdb-b0a1-4c23-b351-81441442d8a8" />🛒 Sales Dashboard (Excel)
+
 
 This project presents a Sales Performance Dashboard built entirely in Microsoft Excel, utilizing pivot tables, charts, and slicers to visualize and analyze sales data.
 
 📊 Project Overview
+
 The dashboard enables interactive sales insights across categories, subcategories, regions, and timeframes. It offers a comprehensive overview of key business metrics to help stakeholders identify sales trends and high-performing products.
 
 ✨ Features
+
 -> KPIs covered:
 
 📈 Total Sales
@@ -21,6 +24,7 @@ Category-based filter
 Time period filter using Order Date slider
 
 -> Visual Components
+
 Area Chart showing Monthly Sales Trend
 Funnel Chart representing Top Products by Sales
 Gauge Chart visualizing the Profit Percentage
@@ -40,3 +44,9 @@ Business sales performance tracking
 Identifying high- and low-performing product segments
 Strategic decision-making through data-driven insights
 Excel dashboarding and reporting portfolio demonstration
+
+## 📸 Dashboard Preview
+
+![Sales Dashboard](./Dashboard_Sales Anlysis.png)
+
+![Sales Dashboard](./Dashboard_Sales Anlysis2.png)
