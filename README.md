@@ -49,4 +49,4 @@ Excel dashboarding and reporting portfolio demonstration
 
 ![Sales Dashboard](Dashboard_Sales%20Analysis.png)
 
-![Sales Dashboard](Dashboard_Sales%20Analysis2.png)
+![Sales Dashboard](Dashboard_Sales_Analysis2.png)
